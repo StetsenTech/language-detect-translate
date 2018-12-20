@@ -1,0 +1,9 @@
+Flask==0.12.2
+Jinja2==2.9.6
+click==6.7
+flask-peewee==0.6.7
+flask-marshmallow==0.8.0
+invoke==0.20.4
+marshmallow==2.13.5
+peewee==3.7.1
+peewee-migrate==1.1.4
