@@ -10,8 +10,8 @@ API to get translated.
 
 ## Running Project
 
-- Be sure to follow all instructions in [Getting Started](GETTING_STARTED.md) readme.
-- In the route directory of the project, run the following commands
+- Be sure to follow all instructions in [Getting Started](GETTING_STARTED.md) document.
+- In the root directory of the project, run the following commands
   - `invoke db.migrate` - Creates and/or run migrations on database
   - `invoke app.run` - Starts the application
     - Note: Currently runs on port 5000
